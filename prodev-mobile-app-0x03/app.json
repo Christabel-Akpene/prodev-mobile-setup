@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "prodevmobileapp0x03",
     "name": "prodev-mobile-app-0x03",
     "slug": "prodev-mobile-app-0x03",
     "version": "1.0.0",
@@ -25,9 +26,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router"
-    ]
+    }
   }
 }
