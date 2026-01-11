@@ -96,10 +96,9 @@ const styles = StyleSheet.create({
   },
   subTextGroup: {
     flexDirection: "row",
-    position: "absolute",
-    bottom: 33,
-    left: 77,
-    right: 76,
+    justifyContent: "space-between",
+    marginTop: 10
+
   },
   subText: {
     fontSize: 18,
